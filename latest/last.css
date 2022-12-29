@@ -1,0 +1,20 @@
+.cardfirst{
+    justify-content: space-evenly;
+}
+.cardsecond{
+    justify-content: space-evenly ;
+}
+.exbg{
+    background-color:#b2dfdb;
+}
+#about{
+    text-align: center;
+    background-color:whitesmoke;
+}
+.footer{
+    background-color: whitesmoke;
+}
+.end{
+    height: 15px;
+    background-color: #b2dfdb
+}
